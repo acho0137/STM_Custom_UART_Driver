@@ -1,0 +1,32 @@
+# STM32CubeIDE generated
+.metadata/
+*.settings/
+*.launch
+
+# Build output
+*Debug/
+*Release/
+*build/
+
+# CubeIDE project files (optional — include these if you want others to open the project)
+# .project
+# .cproject
+# *.ioc
+
+# Object and dependency files
+**/*.o
+**/*.d
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.map
+**/*.lst
+
+# IDE clutter
+*.su
+*.cyclo
+*.dsu
+
+# OS files
+*.DS_Store
+*Thumbs.db
